@@ -1,0 +1,21 @@
+В ветке master в файле README в конце добавился текст "with nice buttons on his jacket (buttons branch)", которого нет в ветке demo
+6 своих коммитов в своем репозитории:
+Коммиты в master:
+Merge branch 'boots_buttons'
+Merge branch 'hat'
+Merge branch 'buttons' into boots_buttons
+Merge branch 'boots' into boots_buttons
+fix readme
+dots
+README added
+boots
+heat added
+init
+Коммиты в boots_buttons:
+Merge branch 'buttons' into boots_buttons
+Merge branch 'boots' into boots_buttons
+fix readme
+dots
+README added
+boots
+init
